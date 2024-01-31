@@ -4,6 +4,4 @@
 <br/>
 <br/>
 ### Tech Stack 
-<p>
-  <img src="https://icons8.com/icon/13679/java" width="200"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,ai,ps,figma&theme=light)](https://skillicons.dev)

@@ -4,4 +4,4 @@
 <br/>
 <br/>
 ### Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,vite,react,typescript,git,github,ai,ps,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,mysql,vite,react,php,laravel,typescript,git,github,ai,ps,figma&theme=light)](https://skillicons.dev)

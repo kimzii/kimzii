@@ -121,8 +121,8 @@ An interactive sales analytics dashboard using Adidas sales data sourced from Ka
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimzii&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimzii&layout=compact&theme=transparent" height="160"/>
 </p>
 
 ---
@@ -130,7 +130,7 @@ An interactive sales analytics dashboard using Adidas sales data sourced from Ka
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kimzii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

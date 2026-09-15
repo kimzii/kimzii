@@ -1,6 +1,6 @@
 # Hi, I'm Kimzie Torres 👋
 
-### IT Graduate | Full-Stack Developer | Data & Analytics Enthusiast
+### IT Graduate | Full-Stack Developer | Data & Analyst
 
 I'm an **Information Technology graduate** interested in building practical applications, analyzing data, and turning ideas into useful digital solutions.
 

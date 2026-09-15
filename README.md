@@ -118,14 +118,6 @@ An interactive sales analytics dashboard using Adidas sales data sourced from Ka
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="160" />
-  <img src="./profile/top-langs.svg" height="160" />
-</p>
----
-
 ## 📫 Connect With Me
 
 <p>
